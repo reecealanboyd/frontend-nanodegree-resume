@@ -24,11 +24,12 @@
 		var formattedGithub = HTMLgithub.replace("%data%", bio.contacts.github);
 		var formattedLocation = HTMLlocation.replace("%data%", bio.contacts.location);
 		var formattedWelcome = HTMLwelcomeMsg.replace("%data%", bio.welcomeMessage);
-		var formattedHTMLbioPic = HTMLbioPic.replace("%data%", bio.biopic);
+		//var formattedHTMLbioPic = HTMLbioPic.replace("%data%", bio.biopic);
 		$("#topContacts").append(formattedMobile + formattedEmail + formattedLinkedin + formattedGithub + formattedLocation);
 		$("#footerContacts").append(formattedMobile + formattedEmail + formattedLinkedin + formattedGithub);
-		$("#header").append(formattedHTMLbioPic + formattedWelcome);
-
+		//$("#header").append(formattedHTMLbioPic + formattedWelcome);
+		$("#header").append(formattedWelcome);
+		
 		// if I have skills, generate HTML for my skills
 		if (bio.skills.length > 0) {
 			$("#header").append(HTMLskillsStart);
