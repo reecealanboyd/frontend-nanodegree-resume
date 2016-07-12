@@ -10,7 +10,7 @@
  	},
  	"welcomeMessage": "Welcome to Reece Boyd's interactive resume!",
  	"skills": ["iOS Development", "Web Development", "Objective-C", "Swift", "JavaScript", "jQuery", "C++", "Python"],
- 	"biopic": "images/reece.jpg",
+ 	//"biopic": "images/reece.jpg",
  	display: function() {
  		// generate HTML for my name and role to be in the header
  		var formattedName = HTMLheaderName.replace("%data%", bio.name);
