@@ -224,3 +224,7 @@ span {
     display: block;
   }
 }
+
+.biopic {
+  display: none;
+}
