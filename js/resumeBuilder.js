@@ -94,28 +94,28 @@ var work = {
  		"title": "iOS Mobile Developer",
  		"location": "Murfreesboro, TN",
  		"dates": "2015-2017",
- 		"description": "•	Increased involvement in student organizations by adding a feature to the app called MyMT.<br>Made scheduling classes easier for students by added a ‘Favorites’ feature to the app that allows students to favorite courses and schedules for upcoming semesters.<br>Reduced the learning curve for new iOS developers joining our team by documenting the entire code base and integrating Swift into the app.",
+ 		"description": "•	Increased involvement in student organizations by adding a feature to the app called MyMT.<br>•	Made scheduling classes easier for students by added a ‘Favorites’ feature to the app that allows students to favorite courses and schedules for upcoming semesters.<br>•	Reduced the learning curve for new iOS developers joining our team by documenting the entire code base and integrating Swift into the app.",
  	},
  	{
  		"employer": "Caterpillar Financial",
  		"title": "Information Services Intern",
  		"location": "Nashville, TN",
  		"dates": "2016",
- 		"description": "Increased ease of information access by creating 6 new Salesforce Page Layouts for the Collections Department and the Customer Relations Department.",
+ 		"description": "•	Increased ease of information access by creating 6 new Salesforce Page Layouts for the Collections Department and the Customer Relations Department.",
  	},
  	{
  		"employer": "Middle Tennessee State University",
  		"title": "Computer Science Tutor",
  		"location": "Murfreesboro, TN",
  		"dates": "2015-2016",
- 		"description": "Provide instruction to Computer Science students, helping them understand topics such as algorithms and data structures.",
+ 		"description": "•	Provide instruction to Computer Science students, helping them understand topics such as algorithms and data structures.",
  	},
  	{
  		"employer": "MTSU ACM",
  		"title": "President and Chair",
  		"location": "Murfreesboro, TN",
  		"dates": "2016-2017",
- 		"description": "Schedule weekly meetings comprising of company recruiting events, student-led workshops, and hackathons.",
+ 		"description": "•	Schedule weekly meetings comprising of company recruiting events, student-led workshops, and hackathons.",
  	}
  	],
  	display: function() {
@@ -139,7 +139,7 @@ var projects = {
  	{
  		"title": "MTSU Mobile",
  		"dates": "2015-2017",
- 		"description": "Collaborate with a team of 6 developers (3 iOS, 3 Android) to develop new features for Middle Tennessee State University’s student body.<br>Maintained a 4+ star rating for the iOS app with 350 reviews in the App Store in addition to ~12.5K monthly active users and ~99.9% crash free users.",
+ 		"description": "•	Collaborate with a team of 6 developers (3 iOS, 3 Android) to develop new features for Middle Tennessee State University’s student body.<br>•	The app currently has a 4+ star rating for the iOS app with 350 reviews in the App Store in addition to ~12.5K monthly active users and ~99.9% crash free users.",
  		"images": [
  			"images/mtmobile.png"
  		]
@@ -147,7 +147,7 @@ var projects = {
  	{
  		"title": "Salesforce Customer Relations Page Layouts",
  		"dates": "2016",
- 		"description": "Currently Customer Service Reps globally need multiple systems to access various information in order to meet our customer’s needs. Some of the systems they access are Salesforce, Oracle and InfoLease. The opportunity exists to compile a majority of the info a Customer Service Rep will need in to Salesforce and changing the page layout for faster access of information.",
+ 		"description": "•	Currently Customer Service Reps globally need multiple systems to access various information in order to meet our customer’s needs. Some of the systems they access are Salesforce, Oracle and InfoLease. The opportunity exists to compile a majority of the info a Customer Service Rep will need in to Salesforce and changing the page layout for faster access of information.",
  		"images": [
  			"images/cat_financial.jpg"
  		]
