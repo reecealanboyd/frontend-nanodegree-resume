@@ -94,14 +94,14 @@ var work = {
  		"title": "iOS Mobile Developer",
  		"location": "Murfreesboro, TN",
  		"dates": "2015-2017",
- 		"description": "Maintaining Objective-C code for the iOS version of the MTSU Mobile Application. Implementing new features in Swift."
+ 		"description": "•	Increased involvement in student organizations by adding a feature to the app called MyMT.<br>Made scheduling classes easier for students by added a ‘Favorites’ feature to the app that allows students to favorite courses and schedules for upcoming semesters.<br>Reduced the learning curve for new iOS developers joining our team by documenting the entire code base and integrating Swift into the app.",
  	},
  	{
  		"employer": "Caterpillar Financial",
  		"title": "Information Services Intern",
  		"location": "Nashville, TN",
  		"dates": "2016",
- 		"description": "Identify unused information in current Salesforce page layouts and what data is needed from InfoLease, and implement a solution in Visualforce, HTML/CSS, and JavaScript.",
+ 		"description": "Increased ease of information access by creating 6 new Salesforce Page Layouts for the Collections Department and the Customer Relations Department.",
  	},
  	{
  		"employer": "Middle Tennessee State University",
@@ -139,7 +139,7 @@ var projects = {
  	{
  		"title": "MTSU Mobile",
  		"dates": "2015-2017",
- 		"description": "MTSU Mobile, an app developed by students for students at Middle Tennessee State University, is designed for the use of anyone interested in learning more about our university.",
+ 		"description": "Collaborate with a team of 6 developers (3 iOS, 3 Android) to develop new features for Middle Tennessee State University’s student body.<br>Maintained a 4+ star rating for the iOS app with 350 reviews in the App Store in addition to ~12.5K monthly active users and ~99.9% crash free users.",
  		"images": [
  			"images/mtmobile.png"
  		]
